@@ -23,7 +23,7 @@ Follow these steps to install:
 
 == Screenshots ==
 
-1. screenshot.png
+1. screenshot-1.png
 
 == Changelog ==
 
