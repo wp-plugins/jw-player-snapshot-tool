@@ -3,7 +3,7 @@ Contributors: Sorsawo Dot Com
 Tags: JW Player, Video, Flash, snapshot
 Requires at least: 3.2
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,13 +17,13 @@ JW Player Snapshot Tool does not work alone and is intended to work with [JW Pla
 
 Follow these steps to install:
 
-1. Install and activate plugin JW Player for WordPress – Flash & HTML5 Video Player.
+1. Install and activate plugin [JW Player for WordPress – Flash & HTML5 Video Player](http://wordpress.org/extend/plugins/jw-player-plugin-for-wordpress/).
 1. Upload the entire `jw-player-snapshot-tool` folder to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Screenshots ==
 
-1. screenshot-1.png
+1. JW Player Snapshot Tool in action
 
 == Changelog ==
 
