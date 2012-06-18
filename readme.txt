@@ -17,7 +17,7 @@ JW Player Snapshot Tool does not work alone and is intended to work with [JW Pla
 
 Follow these steps to install:
 
-1. Install and activate plugin JW Player for WordPress – Flash & HTML5 Video Player.
+1. Install and activate plugin [JW Player for WordPress – Flash & HTML5 Video Player](http://wordpress.org/extend/plugins/jw-player-plugin-for-wordpress/).
 1. Upload the entire `jw-player-snapshot-tool` folder to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
