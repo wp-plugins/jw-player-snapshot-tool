@@ -27,6 +27,10 @@ Follow these steps to install:
 
 == Changelog ==
 
+= 1.0.1 =
+
+* Add new screenshot
+
 = 1.0 =
 
 * The required WordPress version changed to 3.2 and higher.
