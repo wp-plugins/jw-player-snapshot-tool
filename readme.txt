@@ -23,7 +23,7 @@ Follow these steps to install:
 
 == Screenshots ==
 
-1. screenshot-1.png
+1. JW Player Snapshot Tool in action
 
 == Changelog ==
 
