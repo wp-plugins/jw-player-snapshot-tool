@@ -4,7 +4,7 @@ Plugin Name: JW Player Snapshot Tool
 Plugin URI: http://labs.sorsawo.com/wordpress/jw-player-snapshot-tool/
 Description: JW Player Snapshot Tool is a small JW Player module to create video snapshot
 Author: Sorsawo Dot Com
-Version: 1.0
+Version: 1.0.1
 Author URI: http://www.sorsawo.com
 */
 
